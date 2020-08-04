@@ -1,0 +1,29 @@
+body {
+	font: 10px verdana;
+	color: #666666;
+	margin:0px auto 0 auto;
+}
+
+a {	
+font: 10px verdana; 
+}
+
+a:link    {
+text-decoration: none;  
+color: #666666; 
+}
+
+a:visited { 
+text-decoration: none;  
+color: #666666; 
+}
+
+a:hover   { 
+text-decoration: none; 
+color: #666666; 
+}
+
+a:active  { 
+text-decoration: none;  
+color: #666666; 
+}
