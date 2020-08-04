@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+	
+		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+		<meta name="author" content="Chaad - FansiteDB" />
+		
+		<title></title>
+		
+		<link href="css/global.css" type="text/css" rel="stylesheet" />
+		
+		<script language="JavaScript" type="text/javascript">
+			/*<![CDATA[*/
+				var Lst;
+				
+				function CngClass(obj){
+					if (Lst) Lst.className='tab-blue';
+					obj.className='tab-orange';
+					Lst=obj;
+				}
+			
+			/*]]>*/
+		</script>
+	
+	</head>
+	<body>
+		<div id="container">
+			<div id="djsays">
+				<marquee>
+					DJ Says here!
+				</marquee> 
+			</div>
+			<div id="banner">
+				<div id="navigation">
+					<ul>
+						<li class="tab-blue" onclick="CngClass(this);">
+							<a target="nav" href="nav1.html"> HOME </a>
+						</li>
+						
+						<li class="tab-blue" onclick="CngClass(this);">
+							<a target="nav" href="nav2.html"> COMMUNITY </a>
+						</li>
+						
+						<li class="tab-blue" onclick="CngClass(this);">
+							<a href="#"> RADIO </a>
+						</li>
+						
+						<li class="tab-blue" onclick="CngClass(this);">
+							<a href="#"> NEWS </a>
+						</li>
+						 
+						<li class="tab-blue" onclick="CngClass(this);">
+							<a href="#"> FORUM </a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div id="subnav">
+				<p>
+<iframe id="nav" allowTransparency background-color="transparent" width="450" height="18" ... frameborder="0" scrolling="no"></iframe>
+				</p>
+			</div>
+			<div id="page">
+				<div id="left">
+					<div class="contentbox">
+						<div class="contentbox-header"></div>
+						<div class="contentbox-mid">
+							<div class="header blue"><a href="#"> Radio Stats </a></div>
+							
+								<p><strong>DJ</strong> </p>
+                                                                <p>Daniel</p>
+                                                                <p><strong>Listners</strong></p> 
+                                                                <p>100/200</p>
+                                                                <p><strong>Last song</strong> </p>
+                                                                <p>Lady Gaga - Bad romance</p>
+							
+						</div>
+						<div class="contentbox-footer"></div>
+					</div>
+					
+					<div class="contentbox">
+						<div class="contentbox-header"></div>
+						<div class="contentbox-mid">
+							<div class="header green"><a href="#"> Radio Player </a></div>
+							<p>
+								<strong>Coming soon</strong>
+							</p>
+						</div>
+						<div class="contentbox-footer"></div>
+					</div>
+					
+					<div class="contentbox">
+						<div class="contentbox-header"></div>
+						<div class="contentbox-mid">
+							<div class="header yellow"><a href="#"> Latest news </a></div>
+							<p>
+								<strong>Welcome to Illusion Habbo v1!</strong>
+                                                                <em>Written by Daniel</em>
+							</p>
+						</div>
+						<div class="contentbox-footer"></div>
+					</div>
+				</div>
+				
+				<div id="middle">
+					<p>Welcome to Illusion-Habbo! A new un-official Habbo Fansite! Illusion is owned by The.ROFLcopter & OOHyesBABY! of Habbo UK.</p>
+
+<p>As we have recently just opened we will need alot of staff! So why don't you apply to join the team? Maybe play some music for your friends, Create some alts, Write some guides or chekc everyones being friendly on the forum! Just click here to apply for a job.</p>
+
+
+<p>We would like to thank all of the amazing managment that not only do their jobs, but help hire and help theirs and other staff in what ever way they can! A big thanks to them.</p>
+
+
+<p>Why not head down to our chatful forum, that is managed by ??! As it has just opened, there are not many threads, this is why we need you! Make a thread, chat in others and help the forum grow! There will be many competitions for badges, Habbo UK rares, donator and more on the forum, so don't miss out and get down there now!</p>
+
+
+<p>Our DJs here at Illusion work hard to keep the radio online for as long as possible, with the help off ??, they play a variety of music to suit as many listners as they can!</p>
+
+
+<p>Wanting to know the latest news from habbo UK? Well get down to the news section then! Managed by Siannes and the news team! We do all the usual articles, but we also do rumors! So you know whats coming, who might be visiting, what ludus is changing next! We find that these kind of articles are what most habbos are interested in!</p>
+
+
+<p>Want Free Furni, Latest gossip on Illusion & a nice badge to show? The join the official group! If you wear the badge and go into one of our giveaways then you can grab your self free furni! Myself and the rest of the managment team will post sneak peeks, Gossip, latest events, 'coming soon' projects and much more, only on the group!</p>
+
+
+<p>Well thats it from us, now you go explore! And remember, if you find any glitches report them to us by clicking 'Contact us' at the bottem of the page!</p>
+				</div>
+				
+				
+				
+				<div class="clear"></div>				
+			</div>
+			<div id="footer">
+				Coded by <a href="http://habbo.co.uk/home/Chaad" target="_blank">Chaad</a> of <a href="http://habbo.co.uk" target="_blank">Habbo UK</a>
+			</div>
+		</div>
+	</body>
+</html>
